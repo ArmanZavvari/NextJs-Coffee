@@ -1,7 +1,12 @@
+import Slider from "@/components/templates/Index/Slider";
 import React from "react";
 
 function Index() {
-  return <h1>Coffe Home Page :))</h1>;
+  return (
+    <>
+      <Slider />
+    </>
+  );
 }
 
 export default Index;

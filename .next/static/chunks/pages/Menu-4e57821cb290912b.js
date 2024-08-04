@@ -1,1 +1,0 @@
-(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[213],{7658:function(n,u,e){(window.__NEXT_P=window.__NEXT_P||[]).push(["/Menu",function(){return e(465)}])},465:function(n,u,e){"use strict";e.r(u);var t=e(5893);e(7294),u.default=function(){return(0,t.jsx)("div",{children:"Menu Page :))"})}}},function(n){n.O(0,[774,888,179],function(){return n(n.s=7658)}),_N_E=n.O()}]);
