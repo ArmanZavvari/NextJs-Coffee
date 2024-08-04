@@ -1,0 +1,15 @@
+{
+  "/_app": "pages/_app.js",
+  "/Reservation/inedx": "pages/Reservation/inedx.html",
+  "/_error": "pages/_error.js",
+  "/Services": "pages/Services.html",
+  "/about": "pages/about.html",
+  "/Menu": "pages/Menu.html",
+  "/contact": "pages/contact.html",
+  "/product/[id]": "pages/product/[id].html",
+  "/": "pages/index.html",
+  "/search": "pages/search.html",
+  "/testimonial": "pages/testimonial.html",
+  "/_document": "pages/_document.js",
+  "/404": "pages/404.html"
+}
